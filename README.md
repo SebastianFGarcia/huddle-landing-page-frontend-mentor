@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/profile-card-solution-MD6_VveR90](https://www.frontendmentor.io/solutions/profile-card-solution-MD6_VveR90)
-- Live Site URL: [ https://sebastianfgarcia.github.io/profile-card-frontend-mentor/]( https://sebastianfgarcia.github.io/profile-card-frontend-mentor/)
+- Solution URL: [https://www.frontendmentor.io/solutions/huddle-landing-page-solution-LG7S_looft](https://www.frontendmentor.io/solutions/huddle-landing-page-solution-LG7S_looft)
+- Live Site URL: [ https://sebastianfgarcia.github.io/huddle-landing-page-frontend-mentor/]( https://sebastianfgarcia.github.io/huddle-landing-page-frontend-mentor/)
 
 ## My process
 
