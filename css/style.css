@@ -122,7 +122,7 @@ body .container main .icons a:hover {
     grid-template-columns: 55% 45%;
   }
   body .container main .img img {
-    width: 100%;
+    width: 90%;
   }
   body .container main .hero {
     display: -webkit-box;
