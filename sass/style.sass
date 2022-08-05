@@ -22,7 +22,8 @@ body
     text-align: center
     background-image: url(../images/bg-mobile.svg)
     background-repeat: no-repeat
-    background-size: contain
+    background-size: 100% 
+    object-fit: cover
     .container
         width: $Mobile - 90px
         margin: 0 auto
@@ -96,7 +97,8 @@ body
 @media screen and (min-width: $Desktop)
     body
         background-image: url(../images/bg-desktop.svg)
-        background-size: contain
+        background-size: 125%
+        object-fit: cover
         .container
             width: 100%
             padding: 60px 
